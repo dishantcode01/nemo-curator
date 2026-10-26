@@ -1,0 +1,27 @@
+{
+  "project": "RBI KYC Dataset Preparation using NeMo Curator",
+  "quality_filtering": {
+    "input_records": 46,
+    "passed_records": 45,
+    "failed_records": 1,
+    "pass_rate_percent": 97.83,
+    "fail_rate_percent": 2.17
+  },
+  "pii_processing": {
+    "input_records": 45,
+    "records_with_pii": 5,
+    "records_without_pii": 40,
+    "email_detected": 6,
+    "phone_detected": 0,
+    "pan_detected": 0,
+    "aadhaar_detected": 0,
+    "masking": "PII replaced with type-specific placeholders"
+  },
+  "deduplication": {
+    "original_records": 45,
+    "records_after_intentional_duplication": 50,
+    "intentional_duplicates": 5,
+    "duplicates_removed": 5,
+    "final_unique_records": 45
+  }
+}

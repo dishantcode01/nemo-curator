@@ -1,0 +1,4 @@
+{"id":"pii_001","text":"Customer email is rahul@example.com and phone number is 9876543210."}
+{"id":"pii_002","text":"Applicant PAN is ABCDE1234F and Aadhaar number is 123456789012."}
+{"id":"pii_003","text":"Contact officer at officer@bank.com or call +91-9876543210."}
+{"id":"pii_004","text":"This document contains no personally identifiable information."}

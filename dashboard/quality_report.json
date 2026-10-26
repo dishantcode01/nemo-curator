@@ -1,0 +1,11 @@
+{
+  "input_records": 46,
+  "passed_records": 45,
+  "failed_records": 1,
+  "pass_rate_percent": 97.83,
+  "fail_rate_percent": 2.17,
+  "failed_ids": [
+    "kyc_046"
+  ],
+  "output_file": "data/processed/nemo_quality_filtered/5573c14461f1.jsonl"
+}

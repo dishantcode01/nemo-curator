@@ -1,0 +1,10 @@
+{
+  "raw_words": 34232,
+  "initial_chunks": 46,
+  "filtered_chunks": 45,
+  "removed_chunks": 1,
+  "instructions": 135,
+  "qa": 45,
+  "before_deduplication": 180,
+  "final_examples": 180
+}

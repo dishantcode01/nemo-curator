@@ -1,0 +1,10 @@
+{
+  "include": [
+    "app",
+    "scripts"
+  ],
+  "extraPaths": [
+    ".venv/lib/python3.12/site-packages"
+  ],
+  "reportMissingImports": "none"
+}

@@ -1,0 +1,4 @@
+{"id": "pii_001", "text": "Customer email is [EMAIL] and phone number is [PHONE]."}
+{"id": "pii_002", "text": "Applicant PAN is [PAN] and Aadhaar number is [AADHAAR]."}
+{"id": "pii_003", "text": "Contact officer at [EMAIL] or call [PHONE]."}
+{"id": "pii_004", "text": "This document contains no personally identifiable information."}

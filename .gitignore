@@ -1,0 +1,30 @@
+# Python & Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs and OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+*.swp
+*.swo
+
+# Project Data: ignore large runtime outputs and uploads
+data/app_processed/
+data/uploads/
+*.jsonl.tmp
+/tmp/
+
+# Logs & temp files
+*.log

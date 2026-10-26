@@ -1,0 +1,4 @@
+{"id": "pii_001", "text": "Customer email is [EMAIL] and phone number is [PHONE].", "pii_detected": true, "pii_counts": {"EMAIL": 1, "PHONE": 1, "PAN": 0, "AADHAAR": 0}}
+{"id": "pii_002", "text": "Applicant PAN is [PAN] and Aadhaar number is [AADHAAR].", "pii_detected": true, "pii_counts": {"EMAIL": 0, "PHONE": 0, "PAN": 1, "AADHAAR": 1}}
+{"id": "pii_003", "text": "Contact officer at [EMAIL] or call [PHONE].", "pii_detected": true, "pii_counts": {"EMAIL": 1, "PHONE": 1, "PAN": 0, "AADHAAR": 0}}
+{"id": "pii_004", "text": "This document contains no personally identifiable information.", "pii_detected": false, "pii_counts": {"EMAIL": 0, "PHONE": 0, "PAN": 0, "AADHAAR": 0}}
